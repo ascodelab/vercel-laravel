@@ -8,6 +8,7 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "APP_KEY":"base64:x5FNJff/TFg4tKJuPit5pnX5qYSnTNJyWGoIXDYaNY4=",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://yourproductionurl.com",
